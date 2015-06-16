@@ -3,7 +3,7 @@ Jenkins Github OAuth Plugin
 
 Read more: [http://wiki.jenkins-ci.org/display/JENKINS/Github+OAuth+Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Github+OAuth+Plugin)
 
-Overview
+Overview 
 --------
 
 The idea behind this plugin is that github already knows which users are committers on specific projects.
